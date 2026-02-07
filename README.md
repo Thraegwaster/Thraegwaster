@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Thraegwaster
 - 👀 I’m interested in Mathematica, MATLAB, C++, Python and C#, all from a hobbyist perspective.
-- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: sapidmole@gmail.com
 
